@@ -4,6 +4,7 @@ Bienvenido al proyecto de lineal, donde se nos pidió crear un programa que simu
 En este "Repositor" se encontraran con el Reporte, Manual de usuario, Presentación y el codigo de python del proyecto.
 
 Alumnos:
+
 Cerón Samperio Lizeth Montserrat.  
 Higuera Pineda Angel Abraham.  
 Lorenzo Silva Abad Rey.  
